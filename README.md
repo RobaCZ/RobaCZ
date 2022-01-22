@@ -1,4 +1,5 @@
-### Founder, Lead Developer of [Minecraft Tournament](https://github.com/Minecraft-Tournament)
+### Developer of [Survival-Games.cz](https://survival-games.cz)
+### Founder & Lead Developer of [Minecraft Tournament](https://github.com/Minecraft-Tournament)
 
 <p align="left"> 
   <a href="https://twitter.com/robadeveloper" target="_blank">
