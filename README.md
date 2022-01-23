@@ -3,11 +3,9 @@
 
 <p align="left"> 
   <a href="https://twitter.com/robadeveloper" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/robadeveloper?logo=twitter&style=for-the-badge" alt="robadeveloper" />
+    <img src="https://img.shields.io/twitter/follow/robadeveloper?label=TWITTER&logo=twitter&logoColor=ff0000&style=for-the-badge" alt="Twitter" />
   </a>
-</p>
-<p align="middle"> 
-  <a href="https://twitter.com/robadeveloper" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCA5PkE7KtRtolRAEvHYL3kA?label=Youtube%3A%20Roba&style=for-the-badge" alt="Roba" />
+  <a href="https://www.youtube.com/c/RobaDev" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCA5PkE7KtRtolRAEvHYL3kA?label=YOUTUBE&logo=youtube&logoColor=ff0000&style=for-the-badge" alt="YouTube" />
   </a>
 </p>
