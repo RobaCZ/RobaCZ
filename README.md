@@ -3,6 +3,6 @@
 
 <p align="left"> 
   <a href="https://twitter.com/robadeveloper" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/robadeveloper?logo=twitter&style=for-the-badge" alt="SleazeStiKs" />
+    <img src="https://img.shields.io/twitter/follow/robadeveloper?logo=twitter&style=for-the-badge" alt="robadeveloper" />
   </a>
 </p>
