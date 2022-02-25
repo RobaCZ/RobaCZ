@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCA5PkE7KtRtolRAEvHYL3kA?label=YOUTUBE&logo=youtube&logoColor=ff0000&style=for-the-badge" alt="YouTube" />
   </a>
   <a href="https://github.com/RobaCZ" target="_blank">
-    <img src="https://img.shields.io/github/followers/RobaCZ?label=GITHUB&logo=github&style=for-the-badge" alt="GitHub" />
+    <img src="https://img.shields.io/github/followers/RobaCZ?label=GITHUB&logo=github&logoColor=008000&style=for-the-badge" alt="GitHub" />
   </a>
   <a href="https://twitter.com/robadeveloper" target="_blank">
     <img src="https://img.shields.io/twitter/follow/robadeveloper?label=TWITTER&logo=twitter&logoColor=ff0000&style=for-the-badge" alt="Twitter" />
